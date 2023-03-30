@@ -1,4 +1,4 @@
-# Java-POO
+# Java OOP - Pokemons
 Orientado a objetos -  curso java
 
 ------------------------------------------
